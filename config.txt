@@ -1,0 +1,4 @@
+#pip3 install -r config.txt
+math0
+pygame==2.5.0
+matplotlib==3.7.2
